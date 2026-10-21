@@ -1,7 +1,7 @@
 import { AllyMailerClient } from "@allymailer/allymailer-node-sdk";
 
 /** The package and its version in the "platform" query parameter of the requests, before the SDK one. */
-export const PLATFORM = "nestjs.1.1.1";
+export const PLATFORM = "nestjs.1.1.2";
 
 /**
  * @typedef {object} AllyMailerOptions
