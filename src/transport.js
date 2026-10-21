@@ -18,7 +18,7 @@ export class AllyMailerTransport {
    */
   constructor(options = {}) {
     this.name = "AllyMailer";
-    this.version = "1.0.0";
+    this.version = "1.1.1";
     this.client = options.client ?? createClient(options);
   }
 
